@@ -1,0 +1,10 @@
+{
+    "config": {
+        "preferred-install": "dist",
+        "optimize-autoloader": true,
+        "discard-changes": true
+    },
+    "require": {
+        "php-amqplib/php-amqplib": "2.6.*"
+    }
+}
