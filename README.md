@@ -47,7 +47,7 @@ define('RABBITMQ_PASSWORD', 'guest');
 You also need to run the Kanboard's worker:
 
 ```bash
-./kanboard worker
+/path/to/kanboard/cli worker
 ```
 
 The worker must have the same permissions as the web application (same user).
