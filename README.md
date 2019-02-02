@@ -1,9 +1,7 @@
 RabbitMQ Queue Driver 
 =====================
 
-[![Build Status](https://travis-ci.org/kanboard/plugin-rabbitmq.svg?branch=master)](https://travis-ci.org/kanboard/plugin-rabbitmq)
-
-This plugin use [RabbitMQ](http://www.rabbitmq.com) to process background jobs for Kanboard.
+This plugin uses [RabbitMQ](http://www.rabbitmq.com) to process background jobs for Kanboard.
 
 Author
 ------
